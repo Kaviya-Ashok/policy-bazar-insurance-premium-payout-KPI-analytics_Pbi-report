@@ -1,6 +1,6 @@
 # 📊 PolicyBazaar Insurance Premium & Payout KPI Analytics – Power BI Dashboard
 ---
-![PolicyBazaar Logo](policy bazar logo.jpg)
+![PolicyBazaar Logo](policy_bazar_logo.jpg)
 
 ---
 
