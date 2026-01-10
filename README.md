@@ -22,3 +22,9 @@ The primary objective of this project is to support **data-driven decision-makin
 - How can sales, claims, and loan servicing teams be evaluated for accountability and performance?  
 
 ---
+
+## 🗂️ Data Model
+
+![Data Model](data_model.png)
+
+---
