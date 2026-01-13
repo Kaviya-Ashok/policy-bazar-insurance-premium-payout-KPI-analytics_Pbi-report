@@ -27,4 +27,8 @@ The primary objective of this project is to support **data-driven decision-makin
 
 ![Data Model](data_model.png)
 
+## 🔗 Live Dashboard
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGVmZGNhY2ItOWIyNi00MTZhLTg2ODgtOTM3NjIyNDA0YmZhIiwidCI6IjE3ZDc5MTIxLTY4M2EtNDNlNS1iNTIwLWFjYTE5ZTc1MGU5OSJ9&pageName=f28a1e9e7a399c571eb0)
+
 ---
+
